@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/Android Material/WhatsApp/app/src/main/res/drawable/ic_facebook_icon.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/Android Material/WhatsApp/app/src/main/res/drawable/ic_google_icon.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/Android Material/WhatsApp/app/src/main/res/drawable/ic_whatsapp.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/Android Material/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.10739614994934144" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/Android Material/WhatsApp/app/src/main/res/layout/activity_sign_in.xml" value="0.136" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/Android Material/WhatsApp/app/src/main/res/layout/activity_sign_up.xml" value="0.176" />
+        <entry key="..\:/Users/SAHIL INGALE/Downloads/WhatsApp-master/WhatsApp-master/app/src/main/res/layout/activity_sign_up.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
